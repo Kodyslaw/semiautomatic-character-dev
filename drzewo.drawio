@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-04T14:09:41.223Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="BD2aJynupZ3tLB2P9ECW" version="22.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-04T14:15:01.129Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="XAhLeP9JuIcuhYga3YY5" version="22.0.2" type="github">
   <diagram name="Strona-1" id="IyLmZtyO5ltR8Rs7Wp9b">
-    <mxGraphModel dx="1027" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="554" dy="317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -794,6 +794,78 @@
         </mxCell>
         <mxCell id="7wWaO8H53ihinnj8b2KI-277" value="Stworzyłeś:&amp;nbsp;&lt;br&gt;Mężczyznę, Wojownika, Człowieka" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1710" y="505" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7wWaO8H53ihinnj8b2KI-281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7wWaO8H53ihinnj8b2KI-279" target="7wWaO8H53ihinnj8b2KI-280">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7wWaO8H53ihinnj8b2KI-279" value="18" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="615" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7wWaO8H53ihinnj8b2KI-280" value="Stworzyłeś:&amp;nbsp;&lt;br&gt;Mężczyznę, Wojownika, Elfa" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7wWaO8H53ihinnj8b2KI-284" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7wWaO8H53ihinnj8b2KI-282" target="7wWaO8H53ihinnj8b2KI-283">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7wWaO8H53ihinnj8b2KI-282" value="19" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="710" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7wWaO8H53ihinnj8b2KI-283" value="Stworzyłeś:&amp;nbsp;&lt;br&gt;Mężczyznę, Wojownika, Reptilianina" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="695" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7wWaO8H53ihinnj8b2KI-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7wWaO8H53ihinnj8b2KI-285" target="7wWaO8H53ihinnj8b2KI-286">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7wWaO8H53ihinnj8b2KI-285" value="20" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="810" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7wWaO8H53ihinnj8b2KI-286" value="Stworzyłeś:&amp;nbsp;&lt;br&gt;Mężczyznę, Wojownika, Pradawnego" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="795" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7wWaO8H53ihinnj8b2KI-290" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7wWaO8H53ihinnj8b2KI-288" target="7wWaO8H53ihinnj8b2KI-289">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7wWaO8H53ihinnj8b2KI-288" value="21" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="910" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7wWaO8H53ihinnj8b2KI-289" value="Stworzyłeś:&amp;nbsp;&lt;br&gt;Mężczyznę, Paladyna, &lt;br&gt;Człowieka" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="895" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7wWaO8H53ihinnj8b2KI-293" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7wWaO8H53ihinnj8b2KI-291" target="7wWaO8H53ihinnj8b2KI-292">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7wWaO8H53ihinnj8b2KI-291" value="22" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="1010" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7wWaO8H53ihinnj8b2KI-292" value="Stworzyłeś:&amp;nbsp;&lt;br&gt;Mężczyznę, Paladyna, &lt;br&gt;Elfa" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="995" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7wWaO8H53ihinnj8b2KI-296" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7wWaO8H53ihinnj8b2KI-294" target="7wWaO8H53ihinnj8b2KI-295">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7wWaO8H53ihinnj8b2KI-294" value="23" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="1110" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7wWaO8H53ihinnj8b2KI-295" value="Stworzyłeś:&amp;nbsp;&lt;br&gt;Mężczyznę, Paladyna, &lt;br&gt;Reptilianina" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="1095" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7wWaO8H53ihinnj8b2KI-299" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7wWaO8H53ihinnj8b2KI-297" target="7wWaO8H53ihinnj8b2KI-298">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7wWaO8H53ihinnj8b2KI-297" value="24" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="1210" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7wWaO8H53ihinnj8b2KI-298" value="Stworzyłeś:&amp;nbsp;&lt;br&gt;Mężczyznę, Paladyna, &lt;br&gt;Pradawnego" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="1195" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7wWaO8H53ihinnj8b2KI-302" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7wWaO8H53ihinnj8b2KI-300" target="7wWaO8H53ihinnj8b2KI-301">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7wWaO8H53ihinnj8b2KI-300" value="25" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="1310" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7wWaO8H53ihinnj8b2KI-301" value="Stworzyłeś:&amp;nbsp;&lt;br&gt;Mężczyznę, Łowce, &lt;br&gt;Człowieka" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="1295" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
